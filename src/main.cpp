@@ -1,5 +1,15 @@
 #include <Arduino.h>
+/*
+le système serait dans un boîtier
+dht22 pour température et humidité
+capteur de luminosité
+capteur de mouvement
 
+
+
+
+
+*/
 // put function declarations here:
 int myFunction(int, int);
 
